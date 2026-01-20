@@ -1,4 +1,3 @@
-# python-fundamentals-practice
 
 # Python Fundamentals Practice 
 
